@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 Dita - 102042300018
 Diba
 Laisya
 Zabila
 Alif
 Abid
+=======
+Mohammad Febrian Alifanma_102042300006
+Dita Faradilla
+Abid
+Diba
+Laisya
+Zabila Nanda Irawan_102042300005
+>>>>>>> 724e2012baf4169feab43cb3e4fbe0ae626fffa2
